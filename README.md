@@ -2,6 +2,8 @@
 
 My name is Kyle Pressley. I am passionate about developing automated and AI solutions to help people
 
+main areas of focus include investing, budgeting, and tax planning.
+
 <!--
 **KylePressley/KylePressley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
