@@ -4,6 +4,8 @@ My name is Kyle Pressley. I am passionate about developing automated and AI solu
 
 main areas of focus include investing, budgeting, and tax planning.
 
+Repositories to be added include Local AI projects, AI agent projects, and open source Cursor alternatives
+
 <!--
 **KylePressley/KylePressley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
