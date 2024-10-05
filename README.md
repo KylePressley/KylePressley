@@ -8,6 +8,11 @@ Repositories to be added include Local AI projects, AI agent projects, and open 
 
 future projects include creating private security/military contracting services, financial advising with AI, and real estate!
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on AI apps
+- 🤔 I’m looking for help with fine tuning AI
+
 <!--
 **KylePressley/KylePressley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
