@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Kyle Pressley. I am passionate about developing automated and AI solutions to help people
+My name is Kyle Pressley. I am passionate about developing simple AI solutions to help people
 
-main areas of focus include investing, budgeting, and tax planning.
+My main areas of focus is Financial Advising with expertise in: budgeting, investing, and tax planning.
 
 Repositories to be added include Local AI projects, AI agent projects, and open source Cursor alternatives
 
