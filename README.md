@@ -6,7 +6,7 @@ My main areas of focus is Financial Advising with expertise in: budgeting, inves
 
 Repositories to be added include Local AI projects, AI agent projects, and open source Cursor alternatives
 
-future projects include creating private security/military contracting services, financial advising with AI, and real estate!
+future projects include creating private security/military contracting services, financial advising with AI, health/longevity, and real estate!
 
 - 🔭 I’m currently working on a financial advising website
 - 🌱 I’m currently learning AI tools
