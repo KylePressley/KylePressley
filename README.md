@@ -2,26 +2,26 @@
 
 I'm Kyle Pressley, a passionate software engineer focused on developing simple AI-powered solutions to help people.
 
-- Main Skills
-Front-End Development: Experienced in building responsive user interfaces with React.js.
-Back-End Development: Proficient in Node.js, Express.js, and Python for server-side development.
-DevOps: Familiar with Docker for containerization and deployment.
-Version Control: Adept at using Git for version control and collaboration.
+Main Skills
+- Front-End Development: Experienced in building responsive user interfaces with React.js.
+- Back-End Development: Proficient in Node.js, Express.js, and Python for server-side development.
+- DevOps: Familiar with Docker for containerization and deployment.
+- Version Control: Adept at using Git for version control and collaboration.
 
-- Projects
-Space Explorer Game: https://github.com/KylePressley/Space-Explorer-Game
+Projects
+- Space Explorer Game: https://github.com/KylePressley/Space-Explorer-Game
 Immerse yourself in a text-based universe inspired by the epic scale of Eve Online and the intense, player-driven conflicts of Foxhole. Command your own spaceship, engage in interstellar trade, form alliances, and wage war against rival factions.
-AI Agents for Automatic Software Development: (to be uploaded)
+- AI Agents for Automatic Software Development: (to be uploaded)
 This project delves into the application of AI agents to automate various stages of the software development lifecycle, from code generation to testing and deployment.
 
-- Future Projects
-Robo-advisor for investing, budgeting, and tax planning
-Health and longevity program
-Open source Cursor alternative integration
+Future Projects
+- Robo-advisor for investing, budgeting, and tax planning
+- Health and longevity program
+- Open source Cursor alternative integration
 
 Let's Connect!
-LinkedIn: http://linkedin.com/in/kyle-pressley-751721159
-Email: kylepressley14@gmail.com
+- LinkedIn: http://linkedin.com/in/kyle-pressley-751721159
+- Email: kylepressley14@gmail.com
 
 I'm open to collaborating on projects, discussing tech, or just chatting. Feel free to reach out!
 
