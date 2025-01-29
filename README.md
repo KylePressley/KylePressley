@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Kyle Pressley, a passionate software engineer focused on developing simple AI-powered solutions to help people.
+I'm Kyle Pressley, a passionate electrical & computer engineer focused on developing simple AI-powered solutions to help people.
 
 Main Skills
 - Front-End Development: Experienced in building responsive user interfaces with React.js.
