@@ -11,7 +11,7 @@ Main Skills
 Projects
 - Space Explorer Game: https://github.com/KylePressley/Space-Explorer-Game
 Immerse yourself in a text-based universe inspired by the epic scale of Eve Online and the intense, player-driven conflicts of Foxhole. Command your own spaceship, engage in interstellar trade, form alliances, and wage war against rival factions.
-- AI Agents for Automatic Software Development: (to be uploaded)
+- AI Agents for Automatic Software Development: https://github.com/KylePressley/AI-Software-Developer
 This project delves into the application of AI agents to automate various stages of the software development lifecycle, from code generation to testing and deployment.
 
 Future Projects
